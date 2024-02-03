@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Prasi Wrapper</string>
+    <string name="title_activity_main">Prasi Wrapper</string>
+    <string name="package_name">com.prasi.wrap</string>
+    <string name="custom_url_scheme">com.prasi.wrap</string>
+</resources>
