@@ -1,0 +1,33 @@
+{
+  "source": "web/public/index.html",
+  "scripts": {
+    "build": "parcel build",
+    "clean": "rm -rf .parcel-cache dist",
+    "dev": "parcel --open"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.52",
+    "@types/react-dom": "18.2.18",
+    "buffer": "^6.0.3",
+    "parcel": "2.11.0",
+    "process": "^0.11.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.3.3"
+  },
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.0.2",
+    "@types/jquery": "^3.5.29",
+    "cash-dom": "^8.1.5",
+    "cheerio": "^1.0.0-rc.12",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "lucide-react": "^0.321.0",
+    "postcss": "^8.4.33",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss": "^3.4.1",
+    "tailwindcss-animate": "^1.0.7"
+  }
+}
