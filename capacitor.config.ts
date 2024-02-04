@@ -3,10 +3,10 @@ import { CapacitorConfig } from "@capacitor/cli";
 const config: CapacitorConfig = {
   appId: "com.prasi.wrap",
   appName: "Prasi Wrapper",
-  // webDir: 'dist',
+  webDir: 'dist',
 
   server: {
-    url: "http://10.0.2.2:1234",
+    // url: "http://192.168.1.22:1234",
     androidScheme: "https",
   },
 };
